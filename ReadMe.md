@@ -1,4 +1,5 @@
 # Online Job Portal - Full Stack Application
+## This Respository has been archived for some reasons, the rest will be continued [here](https://github.com/JobConnect-1/server)
 <!-- TOC -->
 * [Online Job Portal - Full Stack Application](#online-job-portal---full-stack-application)
   * [Overview](#overview)
